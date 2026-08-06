@@ -1,0 +1,13 @@
+<div class="wrap hero">
+    <div>
+      <div class="emp">
+        <img src="BASE64_IMAGE_REMOVED" alt="NISG">
+        <span>Working with the National Institute for Smart Government</span>
+      </div>
+      <h1>For the people who<br><span class="warm">run the country.</span></h1>
+      <p class="hsub">Technology built around how an officer actually works, so the file answers faster and the citizen at the counter does not wait.</p>
+      <div class="brow">
+        <a href="#contact" class="btn b1">Request a demo</a>
+        <a href="#build" class="btn b2">What we build</a>
+      </div>
+    </div>

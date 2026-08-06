@@ -1,0 +1,130 @@
+<?xml version="1.0" ?>
+<svg viewBox="0 0 330 592" role="img" aria-label="A citizen asking in Telugu on WhatsApp and being answered from the departmental circular" preserveAspectRatio="xMidYMid meet">
+  <rect width="330" height="592" fill="none"/>
+  <rect x="0" y="0" width="330" height="650" rx="38" fill="#0B0F14"/>
+  <rect x="6" y="6" width="318" height="638" rx="33" fill="#1B2126"/>
+  <rect x="11" y="11" width="308" height="628" rx="29" fill="#EFE7DE"/>
+  <circle cx="87" cy="144" r="7" fill="none" stroke="#E2D8CD" stroke-width="1" opacity=".5"/>
+  <circle cx="64" cy="127" r="7" fill="none" stroke="#E2D8CD" stroke-width="1" opacity=".5"/>
+  <circle cx="288" cy="467" r="9" fill="none" stroke="#E2D8CD" stroke-width="1" opacity=".5"/>
+  <circle cx="83" cy="345" r="6" fill="none" stroke="#E2D8CD" stroke-width="1" opacity=".5"/>
+  <circle cx="69" cy="145" r="6" fill="none" stroke="#E2D8CD" stroke-width="1" opacity=".5"/>
+  <circle cx="291" cy="481" r="10" fill="none" stroke="#E2D8CD" stroke-width="1" opacity=".5"/>
+  <circle cx="253" cy="186" r="6" fill="none" stroke="#E2D8CD" stroke-width="1" opacity=".5"/>
+  <circle cx="202" cy="436" r="10" fill="none" stroke="#E2D8CD" stroke-width="1" opacity=".5"/>
+  <circle cx="277" cy="136" r="8" fill="none" stroke="#E2D8CD" stroke-width="1" opacity=".5"/>
+  <circle cx="215" cy="331" r="5" fill="none" stroke="#E2D8CD" stroke-width="1" opacity=".5"/>
+  <circle cx="157" cy="137" r="11" fill="none" stroke="#E2D8CD" stroke-width="1" opacity=".5"/>
+  <circle cx="272" cy="350" r="6" fill="none" stroke="#E2D8CD" stroke-width="1" opacity=".5"/>
+  <circle cx="285" cy="362" r="10" fill="none" stroke="#E2D8CD" stroke-width="1" opacity=".5"/>
+  <circle cx="267" cy="332" r="7" fill="none" stroke="#E2D8CD" stroke-width="1" opacity=".5"/>
+  <circle cx="194" cy="296" r="5" fill="none" stroke="#E2D8CD" stroke-width="1" opacity=".5"/>
+  <circle cx="108" cy="473" r="4" fill="none" stroke="#E2D8CD" stroke-width="1" opacity=".5"/>
+  <circle cx="32" cy="387" r="6" fill="none" stroke="#E2D8CD" stroke-width="1" opacity=".5"/>
+  <circle cx="175" cy="315" r="6" fill="none" stroke="#E2D8CD" stroke-width="1" opacity=".5"/>
+  <circle cx="311" cy="187" r="7" fill="none" stroke="#E2D8CD" stroke-width="1" opacity=".5"/>
+  <circle cx="78" cy="390" r="6" fill="none" stroke="#E2D8CD" stroke-width="1" opacity=".5"/>
+  <circle cx="123" cy="443" r="6" fill="none" stroke="#E2D8CD" stroke-width="1" opacity=".5"/>
+  <circle cx="182" cy="516" r="5" fill="none" stroke="#E2D8CD" stroke-width="1" opacity=".5"/>
+  <circle cx="36" cy="202" r="9" fill="none" stroke="#E2D8CD" stroke-width="1" opacity=".5"/>
+  <circle cx="199" cy="206" r="6" fill="none" stroke="#E2D8CD" stroke-width="1" opacity=".5"/>
+  <circle cx="70" cy="309" r="4" fill="none" stroke="#E2D8CD" stroke-width="1" opacity=".5"/>
+  <circle cx="223" cy="512" r="11" fill="none" stroke="#E2D8CD" stroke-width="1" opacity=".5"/>
+  <circle cx="234" cy="541" r="4" fill="none" stroke="#E2D8CD" stroke-width="1" opacity=".5"/>
+  <circle cx="103" cy="544" r="9" fill="none" stroke="#E2D8CD" stroke-width="1" opacity=".5"/>
+  <circle cx="139" cy="534" r="8" fill="none" stroke="#E2D8CD" stroke-width="1" opacity=".5"/>
+  <circle cx="258" cy="232" r="5" fill="none" stroke="#E2D8CD" stroke-width="1" opacity=".5"/>
+  <circle cx="149" cy="159" r="7" fill="none" stroke="#E2D8CD" stroke-width="1" opacity=".5"/>
+  <circle cx="301" cy="250" r="4" fill="none" stroke="#E2D8CD" stroke-width="1" opacity=".5"/>
+  <circle cx="31" cy="175" r="9" fill="none" stroke="#E2D8CD" stroke-width="1" opacity=".5"/>
+  <circle cx="125" cy="231" r="5" fill="none" stroke="#E2D8CD" stroke-width="1" opacity=".5"/>
+  <circle cx="307" cy="293" r="5" fill="none" stroke="#E2D8CD" stroke-width="1" opacity=".5"/>
+  <circle cx="35" cy="122" r="5" fill="none" stroke="#E2D8CD" stroke-width="1" opacity=".5"/>
+  <circle cx="217" cy="165" r="4" fill="none" stroke="#E2D8CD" stroke-width="1" opacity=".5"/>
+  <circle cx="162" cy="212" r="11" fill="none" stroke="#E2D8CD" stroke-width="1" opacity=".5"/>
+  <circle cx="54" cy="342" r="9" fill="none" stroke="#E2D8CD" stroke-width="1" opacity=".5"/>
+  <circle cx="138" cy="554" r="7" fill="none" stroke="#E2D8CD" stroke-width="1" opacity=".5"/>
+  <circle cx="89" cy="287" r="4" fill="none" stroke="#E2D8CD" stroke-width="1" opacity=".5"/>
+  <circle cx="142" cy="211" r="10" fill="none" stroke="#E2D8CD" stroke-width="1" opacity=".5"/>
+  <circle cx="262" cy="327" r="4" fill="none" stroke="#E2D8CD" stroke-width="1" opacity=".5"/>
+  <circle cx="93" cy="208" r="5" fill="none" stroke="#E2D8CD" stroke-width="1" opacity=".5"/>
+  <circle cx="86" cy="500" r="5" fill="none" stroke="#E2D8CD" stroke-width="1" opacity=".5"/>
+  <circle cx="33" cy="527" r="8" fill="none" stroke="#E2D8CD" stroke-width="1" opacity=".5"/>
+  <circle cx="309" cy="283" r="10" fill="none" stroke="#E2D8CD" stroke-width="1" opacity=".5"/>
+  <circle cx="210" cy="463" r="9" fill="none" stroke="#E2D8CD" stroke-width="1" opacity=".5"/>
+  <circle cx="163" cy="139" r="5" fill="none" stroke="#E2D8CD" stroke-width="1" opacity=".5"/>
+  <circle cx="275" cy="513" r="10" fill="none" stroke="#E2D8CD" stroke-width="1" opacity=".5"/>
+  <circle cx="117" cy="401" r="10" fill="none" stroke="#E2D8CD" stroke-width="1" opacity=".5"/>
+  <circle cx="207" cy="474" r="8" fill="none" stroke="#E2D8CD" stroke-width="1" opacity=".5"/>
+  <circle cx="210" cy="414" r="6" fill="none" stroke="#E2D8CD" stroke-width="1" opacity=".5"/>
+  <circle cx="289" cy="540" r="5" fill="none" stroke="#E2D8CD" stroke-width="1" opacity=".5"/>
+  <circle cx="303" cy="542" r="9" fill="none" stroke="#E2D8CD" stroke-width="1" opacity=".5"/>
+  <circle cx="31" cy="513" r="5" fill="none" stroke="#E2D8CD" stroke-width="1" opacity=".5"/>
+  <circle cx="303" cy="406" r="4" fill="none" stroke="#E2D8CD" stroke-width="1" opacity=".5"/>
+  <circle cx="67" cy="391" r="8" fill="none" stroke="#E2D8CD" stroke-width="1" opacity=".5"/>
+  <circle cx="237" cy="526" r="6" fill="none" stroke="#E2D8CD" stroke-width="1" opacity=".5"/>
+  <circle cx="19" cy="524" r="4" fill="none" stroke="#E2D8CD" stroke-width="1" opacity=".5"/>
+  <circle cx="276" cy="150" r="10" fill="none" stroke="#E2D8CD" stroke-width="1" opacity=".5"/>
+  <circle cx="248" cy="503" r="8" fill="none" stroke="#E2D8CD" stroke-width="1" opacity=".5"/>
+  <circle cx="276" cy="190" r="9" fill="none" stroke="#E2D8CD" stroke-width="1" opacity=".5"/>
+  <circle cx="115" cy="510" r="9" fill="none" stroke="#E2D8CD" stroke-width="1" opacity=".5"/>
+  <circle cx="157" cy="340" r="4" fill="none" stroke="#E2D8CD" stroke-width="1" opacity=".5"/>
+  <circle cx="28" cy="372" r="7" fill="none" stroke="#E2D8CD" stroke-width="1" opacity=".5"/>
+  <circle cx="272" cy="378" r="5" fill="none" stroke="#E2D8CD" stroke-width="1" opacity=".5"/>
+  <circle cx="125" cy="452" r="8" fill="none" stroke="#E2D8CD" stroke-width="1" opacity=".5"/>
+  <circle cx="21" cy="485" r="10" fill="none" stroke="#E2D8CD" stroke-width="1" opacity=".5"/>
+  <circle cx="43" cy="348" r="7" fill="none" stroke="#E2D8CD" stroke-width="1" opacity=".5"/>
+  <path d="M11 40 a29 29 0 0129 -29 h250 a29 29 0 0129 29 v50 H11 Z" fill="#008069"/>
+  <path d="M30 51 l-8 8 l8 8" fill="none" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="58" cy="59" r="16" fill="#CFD8DC"/>
+  <circle cx="58" cy="54" r="5.4" fill="#8FA3AD"/>
+  <path d="M48 68 a10 10 0 0120 0z" fill="#8FA3AD"/>
+  <text x="82" y="56" font-family="Inter, 'Noto Sans Telugu', sans-serif" font-size="12.5" fill="#FFFFFF" font-weight="600" text-anchor="start">Dept. Helpdesk</text>
+  <text x="82" y="71" font-family="Inter, 'Noto Sans Telugu', sans-serif" font-size="10.5" fill="#B9DED4" font-weight="400" text-anchor="start">online</text>
+  <path d="M247 53 h13 a2 2 0 012 2 v8 a2 2 0 01-2 2 h-13 a2 2 0 01-2 -2 v-8 a2 2 0 012 -2z M262 56 l7 -4 v14 l-7 -4z" fill="#FFFFFF"/>
+  <path d="M283 52 a3 3 0 013 3 q0 3 3 8 q5 5 8 3 a3 3 0 013 3 v3 a3 3 0 01-3 3 q-12 0 -20 -20 a3 3 0 013 -3z" fill="#FFFFFF"/>
+  <circle cx="309" cy="53" r="1.7" fill="#FFFFFF"/>
+  <circle cx="309" cy="59" r="1.7" fill="#FFFFFF"/>
+  <circle cx="309" cy="65" r="1.7" fill="#FFFFFF"/>
+  <rect x="139" y="102" width="52" height="20" rx="10" fill="#E1F2FB"/>
+  <text x="165" y="116" font-family="Inter, 'Noto Sans Telugu', sans-serif" font-size="9" fill="#667781" font-weight="600" text-anchor="middle">TODAY</text>
+  <rect x="78" y="136" width="232" height="116" rx="9" fill="#D9FDD3"/>
+  <path d="M310 138 l7 0 l-7 8z" fill="#D9FDD3"/>
+  <text x="90" y="158" font-family="Inter, 'Noto Sans Telugu', sans-serif" font-size="12.5" fill="#111B21" font-weight="400" text-anchor="start"/>
+  <text x="90" y="176" font-family="Inter, 'Noto Sans Telugu', sans-serif" font-size="12.5" fill="#111B21" font-weight="400" text-anchor="start">సాల్ఘార్డు</text>
+  <text x="90" y="194" font-family="Inter, 'Noto Sans Telugu', sans-serif" font-size="12.5" fill="#111B21" font-weight="400" text-anchor="start">రినివల్</text>
+  <text x="90" y="212" font-family="Inter, 'Noto Sans Telugu', sans-serif" font-size="12.5" fill="#111B21" font-weight="400" text-anchor="start">క౑లు</text>
+  <text x="90" y="230" font-family="Inter, 'Noto Sans Telugu', sans-serif" font-size="12.5" fill="#111B21" font-weight="400" text-anchor="start">ఎపు్ఫు?</text>
+  <text x="276" y="243" font-family="Inter, 'Noto Sans Telugu', sans-serif" font-size="9" fill="#667781" font-weight="400" text-anchor="end">9:04 PM</text>
+  <path d="M280 238 l2.6 2.8 l5.6 -6" fill="none" stroke="#53BDEB" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M284.4 238 l2.6 2.8 l5.6 -6" fill="none" stroke="#53BDEB" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="20" y="262" width="220.75" height="80" rx="9" fill="#FFFFFF"/>
+  <path d="M20 264 l-7 0 l7 8z" fill="#FFFFFF"/>
+  <text x="32" y="284" font-family="Inter, 'Noto Sans Telugu', sans-serif" font-size="12.5" fill="#111B21" font-weight="400" text-anchor="start">This week, Monday to Friday,</text>
+  <text x="32" y="302" font-family="Inter, 'Noto Sans Telugu', sans-serif" font-size="12.5" fill="#111B21" font-weight="400" text-anchor="start">10 AM to 4 PM at the mandal</text>
+  <text x="32" y="320" font-family="Inter, 'Noto Sans Telugu', sans-serif" font-size="12.5" fill="#111B21" font-weight="400" text-anchor="start">office.</text>
+  <text x="228.75" y="333" font-family="Inter, 'Noto Sans Telugu', sans-serif" font-size="9" fill="#667781" font-weight="400" text-anchor="end">9:04 PM</text>
+  <rect x="78" y="352" width="232" height="62" rx="9" fill="#D9FDD3"/>
+  <path d="M310 354 l7 0 l-7 8z" fill="#D9FDD3"/>
+  <text x="90" y="374" font-family="Inter, 'Noto Sans Telugu', sans-serif" font-size="12.5" fill="#111B21" font-weight="400" text-anchor="start">ఎయి</text>
+  <text x="90" y="392" font-family="Inter, 'Noto Sans Telugu', sans-serif" font-size="12.5" fill="#111B21" font-weight="400" text-anchor="start">దాకుమెంట్స్?</text>
+  <text x="276" y="405" font-family="Inter, 'Noto Sans Telugu', sans-serif" font-size="9" fill="#667781" font-weight="400" text-anchor="end">9:05 PM</text>
+  <path d="M280 400 l2.6 2.8 l5.6 -6" fill="none" stroke="#53BDEB" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M284.4 400 l2.6 2.8 l5.6 -6" fill="none" stroke="#53BDEB" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="20" y="424" width="207.125" height="78" rx="9" fill="#FFFFFF"/>
+  <path d="M20 426 l-7 0 l7 8z" fill="#FFFFFF"/>
+  <text x="32" y="446" font-family="Inter, 'Noto Sans Telugu', sans-serif" font-size="12.5" fill="#111B21" font-weight="400" text-anchor="start">Aadhaar, the old card, and</text>
+  <text x="32" y="464" font-family="Inter, 'Noto Sans Telugu', sans-serif" font-size="12.5" fill="#111B21" font-weight="400" text-anchor="start">one address proof.</text>
+  <rect x="32" y="473" width="183.125" height="17" rx="4" fill="#F0F4F2"/>
+  <text x="38" y="485" font-family="Inter, 'Noto Sans Telugu', sans-serif" font-size="9" fill="#3F7D68" font-weight="600" text-anchor="start">From Circular 41 of 2024, page 2</text>
+  <text x="215.125" y="493" font-family="Inter, 'Noto Sans Telugu', sans-serif" font-size="9" fill="#667781" font-weight="400" text-anchor="end">9:05 PM</text>
+  <rect x="20" y="528" width="236" height="42" rx="21" fill="#FFFFFF"/>
+  <circle cx="42" cy="549" r="8" fill="none" stroke="#667781" stroke-width="1.6"/>
+  <circle cx="39" cy="547" r="1.2" fill="#667781"/>
+  <circle cx="45" cy="547" r="1.2" fill="#667781"/>
+  <path d="M38 552 a5 4 0 008 0" fill="none" stroke="#667781" stroke-width="1.4" stroke-linecap="round"/>
+  <text x="60" y="554" font-family="Inter, 'Noto Sans Telugu', sans-serif" font-size="12.5" fill="#8696A0" font-weight="400" text-anchor="start">Message</text>
+  <path d="M214 541 v10 a7 7 0 0014 0 v-13 a4 4 0 00-8 0 v13" fill="none" stroke="#667781" stroke-width="1.6" stroke-linecap="round"/>
+  <circle cx="286" cy="549" r="21" fill="#008069"/>
+  <path d="M279 542 a8 8 0 0114 0 v6 a7 7 0 01-14 0z M275 550 a11 11 0 0022 0 M286 561 v4" fill="none" stroke="#FFFFFF" stroke-width="1.8" stroke-linecap="round"/>
+</svg>
