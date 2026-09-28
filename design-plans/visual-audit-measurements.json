@@ -1,0 +1,662 @@
+[
+  {
+    "width": 1863,
+    "overflow": false,
+    "items": [
+      {
+        "selector": ".hero h1",
+        "text": "Secure Sovereign AI for Indian Governance.",
+        "size": "59px",
+        "lineHeight": "66.08px",
+        "color": "rgb(23, 46, 64)",
+        "background": "rgb(255, 255, 255)",
+        "contrast": 13.99,
+        "width": 550
+      },
+      {
+        "selector": ".hero-copy>p",
+        "text": "AI that connects government systems, understands information, automates workflows and delivers verif",
+        "size": "17px",
+        "lineHeight": "30.6px",
+        "color": "rgb(88, 104, 115)",
+        "background": "rgb(255, 255, 255)",
+        "contrast": 5.77,
+        "width": 490
+      },
+      {
+        "selector": ".nav nav a",
+        "text": "What we build",
+        "size": "14px",
+        "lineHeight": "23.1px",
+        "color": "rgb(23, 46, 64)",
+        "background": "rgb(255, 255, 255)",
+        "contrast": 13.99,
+        "width": 94
+      },
+      {
+        "selector": ".hero .button",
+        "text": "Request a demo",
+        "size": "14px",
+        "lineHeight": "21px",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(255, 255, 255)",
+        "contrast": 1,
+        "width": 186
+      },
+      {
+        "selector": ".workspace-nav",
+        "text": "Knowledge assistant",
+        "size": "12px",
+        "lineHeight": "19.8px",
+        "color": "rgb(38, 90, 76)",
+        "background": "rgb(231, 239, 234)",
+        "contrast": 6.77,
+        "width": 142
+      },
+      {
+        "selector": ".sample-answer p",
+        "text": "Start with the application checklist and the latest departmental guidance.",
+        "size": "14px",
+        "lineHeight": "23.8px",
+        "color": "rgb(88, 104, 115)",
+        "background": "rgb(255, 255, 255)",
+        "contrast": 5.77,
+        "width": 598
+      },
+      {
+        "selector": ".source-link",
+        "text": "Sample application checklist p. 04",
+        "size": "13px",
+        "lineHeight": "19.5px",
+        "color": "rgb(23, 46, 64)",
+        "background": "rgb(246, 248, 246)",
+        "contrast": 13.11,
+        "width": 598
+      },
+      {
+        "selector": ".principles strong",
+        "text": "Intelligent. Actionable.",
+        "size": "12px",
+        "lineHeight": "18px",
+        "color": "rgb(23, 46, 64)",
+        "background": "rgb(255, 255, 255)",
+        "contrast": 13.99,
+        "width": 221
+      },
+      {
+        "selector": "#problem h2",
+        "text": "Government has the information.Finding it takes time.",
+        "size": "42px",
+        "lineHeight": "47.46px",
+        "color": "rgb(23, 46, 64)",
+        "background": "rgb(255, 255, 255)",
+        "contrast": 13.99,
+        "width": 579
+      },
+      {
+        "selector": "#problem .lead",
+        "text": "Policies, orders and data sit across multiple systems in different formats — officers spend hours ar",
+        "size": "19px",
+        "lineHeight": "30.4px",
+        "color": "rgb(23, 46, 64)",
+        "background": "rgb(255, 255, 255)",
+        "contrast": 13.99,
+        "width": 579
+      },
+      {
+        "selector": "#problem>div:nth-child(2)>p:not(.lead)",
+        "text": "Departments hold vast data, but finding the right record means manual searches across papers, legacy",
+        "size": "16px",
+        "lineHeight": "28px",
+        "color": "rgb(88, 104, 115)",
+        "background": "rgb(255, 255, 255)",
+        "contrast": 5.77,
+        "width": 579
+      },
+      {
+        "selector": ".original-metrics p",
+        "text": "Officer bandwidth spent on searching and verification",
+        "size": "14px",
+        "lineHeight": "22.4px",
+        "color": "rgb(88, 104, 115)",
+        "background": "rgb(255, 255, 255)",
+        "contrast": 5.77,
+        "width": 260
+      },
+      {
+        "selector": ".record-stack>span",
+        "text": "Scanned registers",
+        "size": "14px",
+        "lineHeight": "23.1px",
+        "color": "rgb(23, 46, 64)",
+        "background": "rgb(255, 255, 255)",
+        "contrast": 13.99,
+        "width": 165
+      },
+      {
+        "selector": ".platform-tabs button",
+        "text": "Knowledge assistant",
+        "size": "14px",
+        "lineHeight": "23.1px",
+        "color": "rgb(11, 24, 17)",
+        "background": "rgb(245, 245, 245)",
+        "contrast": 16.71,
+        "width": 201
+      },
+      {
+        "selector": ".capability-copy>p",
+        "text": "Ask decades of orders, circulars and registers in plain language. Every answer arrives with the docu",
+        "size": "16px",
+        "lineHeight": "28px",
+        "color": "rgb(88, 104, 115)",
+        "background": "rgb(237, 243, 239)",
+        "contrast": 5.12,
+        "width": 440
+      },
+      {
+        "selector": ".warning-row p",
+        "missing": true
+      },
+      {
+        "selector": ".preview-disclaimer",
+        "text": "Illustrative content. Actual answers depend on approved departmental records.",
+        "size": "12px",
+        "lineHeight": "19.2px",
+        "color": "rgb(88, 104, 115)",
+        "background": "rgb(255, 255, 255)",
+        "contrast": 5.77,
+        "width": 637
+      },
+      {
+        "selector": ".platform-metrics span",
+        "text": "Data sources connected",
+        "size": "14px",
+        "lineHeight": "22.4px",
+        "color": "rgb(87, 114, 94)",
+        "background": "rgb(237, 243, 239)",
+        "contrast": 4.7,
+        "width": 151
+      },
+      {
+        "selector": ".citizen-copy>p:not(.lead)",
+        "text": "Today it takes several visits, several people and an intermediary. The other half of the same platfo",
+        "size": "16px",
+        "lineHeight": "28px",
+        "color": "rgb(88, 104, 115)",
+        "background": "rgb(255, 255, 255)",
+        "contrast": 5.77,
+        "width": 480
+      },
+      {
+        "selector": ".chat-answer",
+        "text": "The documents depend on the service you need. Tell me the service name, and I can help you find the ",
+        "size": "15px",
+        "lineHeight": "26.25px",
+        "color": "rgb(23, 46, 64)",
+        "background": "rgb(255, 255, 255)",
+        "contrast": 13.99,
+        "width": 471
+      },
+      {
+        "selector": ".chat-citation",
+        "text": "Approved service guidance · Example",
+        "size": "12px",
+        "lineHeight": "19.2px",
+        "color": "rgb(40, 99, 92)",
+        "background": "rgb(255, 255, 255)",
+        "contrast": 6.93,
+        "width": 439
+      },
+      {
+        "selector": ".citizen-promises p",
+        "text": "Telugu at eleven at night, English the next morning. The same approved answer either way.",
+        "size": "14px",
+        "lineHeight": "24.5px",
+        "color": "rgb(88, 104, 115)",
+        "background": "rgb(255, 255, 255)",
+        "contrast": 5.77,
+        "width": 347
+      },
+      {
+        "selector": ".language-band p",
+        "text": "Script-level, not translation bolted on afterwards. The system reads printed and handwritten text ac",
+        "size": "16px",
+        "lineHeight": "28px",
+        "color": "rgb(88, 104, 115)",
+        "background": "rgb(250, 246, 238)",
+        "contrast": 5.35,
+        "width": 490
+      },
+      {
+        "selector": ".boundary-label",
+        "text": "YOUR DEPARTMENT’S SECURITY BOUNDARY",
+        "size": "12px",
+        "lineHeight": "19.2px",
+        "color": "rgb(87, 111, 121)",
+        "background": "rgb(250, 253, 255)",
+        "contrast": 5.2,
+        "width": 532
+      },
+      {
+        "selector": ".architecture-output>span",
+        "text": "Officers",
+        "size": "14px",
+        "lineHeight": "23.1px",
+        "color": "rgb(48, 85, 101)",
+        "background": "rgb(228, 237, 239)",
+        "contrast": 6.76,
+        "width": 76
+      },
+      {
+        "selector": ".security-details p",
+        "text": "Records, indexes and anything derived from them remain departmental property, during the engagement ",
+        "size": "16px",
+        "lineHeight": "28px",
+        "color": "rgb(88, 104, 115)",
+        "background": "rgb(237, 243, 246)",
+        "contrast": 5.15,
+        "width": 450
+      },
+      {
+        "selector": ".sovereignty-values>span",
+        "text": "100% Of data processed and stored in India",
+        "size": "14px",
+        "lineHeight": "22.4px",
+        "color": "rgb(81, 108, 121)",
+        "background": "rgb(237, 243, 246)",
+        "contrast": 4.97,
+        "width": 389
+      },
+      {
+        "selector": ".steps p",
+        "text": "Link your data sources securely.",
+        "size": "16px",
+        "lineHeight": "26.4px",
+        "color": "rgb(88, 104, 115)",
+        "background": "rgb(255, 255, 255)",
+        "contrast": 5.77,
+        "width": 225
+      },
+      {
+        "selector": ".steps small",
+        "text": "Departmental DB · Portals",
+        "size": "12px",
+        "lineHeight": "19.8px",
+        "color": "rgb(88, 104, 115)",
+        "background": "rgb(255, 255, 255)",
+        "contrast": 5.77,
+        "width": 225
+      },
+      {
+        "selector": ".about-layout p",
+        "text": "Secure, sovereign AI at the intersection of public administration and applied AI. Built in Hyderabad",
+        "size": "16px",
+        "lineHeight": "28.8px",
+        "color": "rgb(88, 104, 115)",
+        "background": "rgb(244, 238, 227)",
+        "contrast": 4.99,
+        "width": 530
+      },
+      {
+        "selector": ".founders strong",
+        "text": "Reshmanth Jonnalagadda",
+        "size": "15px",
+        "lineHeight": "22.5px",
+        "color": "rgb(23, 46, 64)",
+        "background": "rgb(244, 238, 227)",
+        "contrast": 12.11,
+        "width": 281
+      },
+      {
+        "selector": ".contact-details small",
+        "text": "Send us one workflow that is costing your officers time. We will show you the answer arriving in sec",
+        "size": "14px",
+        "lineHeight": "24.5px",
+        "color": "rgb(88, 104, 115)",
+        "background": "rgb(227, 237, 224)",
+        "contrast": 4.79,
+        "width": 330
+      },
+      {
+        "selector": ".footer-bottom",
+        "text": "© 2026 NITI AIDE Solutions Private LimitedCIN U63119TS2025PTC205025Designed with UX4G",
+        "size": "12px",
+        "lineHeight": "19.8px",
+        "color": "rgb(88, 104, 115)",
+        "background": "rgb(255, 255, 255)",
+        "contrast": 5.77,
+        "width": 1232
+      }
+    ]
+  },
+  {
+    "width": 390,
+    "overflow": false,
+    "items": [
+      {
+        "selector": ".hero h1",
+        "text": "Secure Sovereign AI for Indian Governance.",
+        "size": "42px",
+        "lineHeight": "47.88px",
+        "color": "rgb(23, 46, 64)",
+        "background": "rgb(255, 255, 255)",
+        "contrast": 13.99,
+        "width": 350
+      },
+      {
+        "selector": ".hero-copy>p",
+        "text": "AI that connects government systems, understands information, automates workflows and delivers verif",
+        "size": "16px",
+        "lineHeight": "28.8px",
+        "color": "rgb(88, 104, 115)",
+        "background": "rgb(255, 255, 255)",
+        "contrast": 5.77,
+        "width": 350
+      },
+      {
+        "selector": ".nav nav a",
+        "text": "What we build",
+        "size": "15px",
+        "lineHeight": "24.75px",
+        "color": "rgb(23, 46, 64)",
+        "background": "rgb(255, 255, 255)",
+        "contrast": 13.99,
+        "width": 0
+      },
+      {
+        "selector": ".hero .button",
+        "text": "Request a demo",
+        "size": "14px",
+        "lineHeight": "21px",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgb(255, 255, 255)",
+        "contrast": 1,
+        "width": 186
+      },
+      {
+        "selector": ".workspace-nav",
+        "text": "Knowledge assistant",
+        "size": "12px",
+        "lineHeight": "19.8px",
+        "color": "rgb(38, 90, 76)",
+        "background": "rgb(231, 239, 234)",
+        "contrast": 6.77,
+        "width": 0
+      },
+      {
+        "selector": ".sample-answer p",
+        "text": "Start with the application checklist and the latest departmental guidance.",
+        "size": "14px",
+        "lineHeight": "23.8px",
+        "color": "rgb(88, 104, 115)",
+        "background": "rgb(255, 255, 255)",
+        "contrast": 5.77,
+        "width": 314
+      },
+      {
+        "selector": ".source-link",
+        "text": "Sample application checklist p. 04",
+        "size": "13px",
+        "lineHeight": "19.5px",
+        "color": "rgb(23, 46, 64)",
+        "background": "rgb(246, 248, 246)",
+        "contrast": 13.11,
+        "width": 314
+      },
+      {
+        "selector": ".principles strong",
+        "text": "Intelligent. Actionable.",
+        "size": "11px",
+        "lineHeight": "16.5px",
+        "color": "rgb(23, 46, 64)",
+        "background": "rgb(255, 255, 255)",
+        "contrast": 13.99,
+        "width": 350
+      },
+      {
+        "selector": "#problem h2",
+        "text": "Government has the information.Finding it takes time.",
+        "size": "33px",
+        "lineHeight": "37.29px",
+        "color": "rgb(23, 46, 64)",
+        "background": "rgb(255, 255, 255)",
+        "contrast": 13.99,
+        "width": 350
+      },
+      {
+        "selector": "#problem .lead",
+        "text": "Policies, orders and data sit across multiple systems in different formats — officers spend hours ar",
+        "size": "17px",
+        "lineHeight": "27.2px",
+        "color": "rgb(23, 46, 64)",
+        "background": "rgb(255, 255, 255)",
+        "contrast": 13.99,
+        "width": 350
+      },
+      {
+        "selector": "#problem>div:nth-child(2)>p:not(.lead)",
+        "text": "Departments hold vast data, but finding the right record means manual searches across papers, legacy",
+        "size": "16px",
+        "lineHeight": "28px",
+        "color": "rgb(88, 104, 115)",
+        "background": "rgb(255, 255, 255)",
+        "contrast": 5.77,
+        "width": 350
+      },
+      {
+        "selector": ".original-metrics p",
+        "text": "Officer bandwidth spent on searching and verification",
+        "size": "14px",
+        "lineHeight": "22.4px",
+        "color": "rgb(88, 104, 115)",
+        "background": "rgb(255, 255, 255)",
+        "contrast": 5.77,
+        "width": 350
+      },
+      {
+        "selector": ".record-stack>span",
+        "text": "Scanned registers",
+        "size": "14px",
+        "lineHeight": "23.1px",
+        "color": "rgb(23, 46, 64)",
+        "background": "rgb(255, 255, 255)",
+        "contrast": 13.99,
+        "width": 310
+      },
+      {
+        "selector": ".platform-tabs button",
+        "text": "Knowledge assistant",
+        "size": "14px",
+        "lineHeight": "21px",
+        "color": "rgb(4, 8, 6)",
+        "background": "rgb(242, 242, 242)",
+        "contrast": 17.99,
+        "width": 350
+      },
+      {
+        "selector": ".capability-copy>p",
+        "text": "Ask decades of orders, circulars and registers in plain language. Every answer arrives with the docu",
+        "size": "16px",
+        "lineHeight": "28px",
+        "color": "rgb(88, 104, 115)",
+        "background": "rgb(237, 243, 239)",
+        "contrast": 5.12,
+        "width": 350
+      },
+      {
+        "selector": ".warning-row p",
+        "missing": true
+      },
+      {
+        "selector": ".preview-disclaimer",
+        "text": "Illustrative content. Actual answers depend on approved departmental records.",
+        "size": "12px",
+        "lineHeight": "19.2px",
+        "color": "rgb(88, 104, 115)",
+        "background": "rgb(255, 255, 255)",
+        "contrast": 5.77,
+        "width": 314
+      },
+      {
+        "selector": ".platform-metrics span",
+        "text": "Data sources connected",
+        "size": "14px",
+        "lineHeight": "22.4px",
+        "color": "rgb(87, 114, 94)",
+        "background": "rgb(237, 243, 239)",
+        "contrast": 4.7,
+        "width": 151
+      },
+      {
+        "selector": ".citizen-copy>p:not(.lead)",
+        "text": "Today it takes several visits, several people and an intermediary. The other half of the same platfo",
+        "size": "16px",
+        "lineHeight": "28px",
+        "color": "rgb(88, 104, 115)",
+        "background": "rgb(255, 255, 255)",
+        "contrast": 5.77,
+        "width": 350
+      },
+      {
+        "selector": ".chat-answer",
+        "text": "The documents depend on the service you need. Tell me the service name, and I can help you find the ",
+        "size": "15px",
+        "lineHeight": "26.25px",
+        "color": "rgb(23, 46, 64)",
+        "background": "rgb(255, 255, 255)",
+        "contrast": 13.99,
+        "width": 296
+      },
+      {
+        "selector": ".chat-citation",
+        "text": "Approved service guidance · Example",
+        "size": "12px",
+        "lineHeight": "19.2px",
+        "color": "rgb(40, 99, 92)",
+        "background": "rgb(255, 255, 255)",
+        "contrast": 6.93,
+        "width": 270
+      },
+      {
+        "selector": ".citizen-promises p",
+        "text": "Telugu at eleven at night, English the next morning. The same approved answer either way.",
+        "size": "14px",
+        "lineHeight": "24.5px",
+        "color": "rgb(88, 104, 115)",
+        "background": "rgb(255, 255, 255)",
+        "contrast": 5.77,
+        "width": 313
+      },
+      {
+        "selector": ".language-band p",
+        "text": "Script-level, not translation bolted on afterwards. The system reads printed and handwritten text ac",
+        "size": "16px",
+        "lineHeight": "28px",
+        "color": "rgb(88, 104, 115)",
+        "background": "rgb(250, 246, 238)",
+        "contrast": 5.35,
+        "width": 350
+      },
+      {
+        "selector": ".boundary-label",
+        "text": "YOUR DEPARTMENT’S SECURITY BOUNDARY",
+        "size": "12px",
+        "lineHeight": "19.2px",
+        "color": "rgb(87, 111, 121)",
+        "background": "rgb(250, 253, 255)",
+        "contrast": 5.2,
+        "width": 316
+      },
+      {
+        "selector": ".architecture-output>span",
+        "text": "Officers",
+        "size": "12px",
+        "lineHeight": "19.8px",
+        "color": "rgb(48, 85, 101)",
+        "background": "rgb(228, 237, 239)",
+        "contrast": 6.76,
+        "width": 57
+      },
+      {
+        "selector": ".security-details p",
+        "text": "Records, indexes and anything derived from them remain departmental property, during the engagement ",
+        "size": "16px",
+        "lineHeight": "28px",
+        "color": "rgb(88, 104, 115)",
+        "background": "rgb(237, 243, 246)",
+        "contrast": 5.15,
+        "width": 298
+      },
+      {
+        "selector": ".sovereignty-values>span",
+        "text": "100% Of data processed and stored in India",
+        "size": "14px",
+        "lineHeight": "22.4px",
+        "color": "rgb(81, 108, 121)",
+        "background": "rgb(237, 243, 246)",
+        "contrast": 4.97,
+        "width": 350
+      },
+      {
+        "selector": ".steps p",
+        "text": "Link your data sources securely.",
+        "size": "16px",
+        "lineHeight": "26.4px",
+        "color": "rgb(88, 104, 115)",
+        "background": "rgb(255, 255, 255)",
+        "contrast": 5.77,
+        "width": 290
+      },
+      {
+        "selector": ".steps small",
+        "text": "Departmental DB · Portals",
+        "size": "12px",
+        "lineHeight": "19.8px",
+        "color": "rgb(88, 104, 115)",
+        "background": "rgb(255, 255, 255)",
+        "contrast": 5.77,
+        "width": 290
+      },
+      {
+        "selector": ".about-layout p",
+        "text": "Secure, sovereign AI at the intersection of public administration and applied AI. Built in Hyderabad",
+        "size": "16px",
+        "lineHeight": "28.8px",
+        "color": "rgb(88, 104, 115)",
+        "background": "rgb(244, 238, 227)",
+        "contrast": 4.99,
+        "width": 350
+      },
+      {
+        "selector": ".founders strong",
+        "text": "Reshmanth Jonnalagadda",
+        "size": "14px",
+        "lineHeight": "21px",
+        "color": "rgb(23, 46, 64)",
+        "background": "rgb(244, 238, 227)",
+        "contrast": 12.11,
+        "width": 168
+      },
+      {
+        "selector": ".contact-details small",
+        "text": "Send us one workflow that is costing your officers time. We will show you the answer arriving in sec",
+        "size": "14px",
+        "lineHeight": "24.5px",
+        "color": "rgb(88, 104, 115)",
+        "background": "rgb(227, 237, 224)",
+        "contrast": 4.79,
+        "width": 330
+      },
+      {
+        "selector": ".footer-bottom",
+        "text": "© 2026 NITI AIDE Solutions Private LimitedCIN U63119TS2025PTC205025Designed with UX4G",
+        "size": "12px",
+        "lineHeight": "20.4px",
+        "color": "rgb(88, 104, 115)",
+        "background": "rgb(255, 255, 255)",
+        "contrast": 5.77,
+        "width": 350
+      }
+    ]
+  }
+]
