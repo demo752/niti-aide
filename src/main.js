@@ -48,7 +48,7 @@ const liveObserver=new IntersectionObserver(entries=>{entries.forEach(entry=>{if
 liveObserver.observe(document.querySelector('#cap-preview'));liveObserver.observe(document.querySelector('.chat-body'));
 document.querySelectorAll('[data-tab]').forEach(b=>b.addEventListener('click',e=>{if(e.detail)playPlatform();}));
 document.querySelectorAll('[data-language]').forEach(b=>b.addEventListener('click',e=>{if(e.detail)playChat();}));
-const entranceObserver=new IntersectionObserver(entries=>{entries.forEach(entry=>{if(!entry.isIntersecting)return;if(!reduceMotion.matches){const group=entry.target.matches('.steps,.original-metrics,.platform-metrics,.sovereignty-values,.citizen-promises,.founders')?[...entry.target.children]:[entry.target];playLive(entry.target,group,80);}entranceObserver.unobserve(entry.target);});},{threshold:.15});
+const entranceObserver=new IntersectionObserver(entries=>{entries.forEach(entry=>{if(!entry.isIntersecting)return;if(!reduceMotion.matches){const group=entry.target.matches('.record-flow')?[...entry.target.querySelectorAll('.record-source-group,.processing-stages li,.record-output-group')]:entry.target.matches('.steps,.original-metrics,.platform-metrics,.sovereignty-values,.citizen-promises,.founders')?[...entry.target.children]:[entry.target];playLive(entry.target,group,80);}entranceObserver.unobserve(entry.target);});},{threshold:.15});
 document.querySelectorAll('.section-heading,.problem>div:first-child,.original-metrics,.record-flow,.platform-metrics,.citizen-copy,.citizen-promises,.language-band .container,.sovereignty-values,.security-illustration,.security-details,.steps,.founders,.contact-layout').forEach(el=>entranceObserver.observe(el));
 function cancelLiveMotion(){liveRuns.forEach(animations=>animations.forEach(a=>a.cancel()));liveRuns.clear();}
 reduceMotion.addEventListener('change',()=>{if(reduceMotion.matches)cancelLiveMotion();});
@@ -57,10 +57,10 @@ document.addEventListener('visibilitychange',()=>{if(document.hidden)cancelLiveM
 // Animate only while the language section is visible; keep a persistent pause choice.
 const languageCloud=document.querySelector('.script-composition');
 languageCloud.querySelectorAll(':scope > span').forEach((el,i)=>el.style.setProperty('--language-index',i));
-const languageToggle=document.createElement('button');
-languageToggle.type='button';languageToggle.className='language-motion-toggle';languageToggle.textContent='Pause animation';languageToggle.setAttribute('aria-pressed','false');languageCloud.append(languageToggle);
-let languagesVisible=false,languagesPaused=false;
-function updateLanguageMotion(){languageCloud.classList.toggle('is-playing',languagesVisible&&!languagesPaused&&!document.hidden&&!reduceMotion.matches);}
-languageToggle.addEventListener('click',()=>{languagesPaused=!languagesPaused;languageToggle.textContent=languagesPaused?'Play animation':'Pause animation';languageToggle.setAttribute('aria-pressed',String(languagesPaused));updateLanguageMotion();});
+let languagesVisible=false;
+function updateLanguageMotion(){languageCloud.classList.toggle('is-playing',languagesVisible&&!document.hidden&&!reduceMotion.matches);}
 new IntersectionObserver(entries=>{languagesVisible=entries[0].isIntersecting;updateLanguageMotion();},{threshold:.2}).observe(languageCloud);
 document.addEventListener('visibilitychange',updateLanguageMotion);reduceMotion.addEventListener('change',updateLanguageMotion);
+
+// A finite handoff through the three stages when the diagram enters view.
+const stageObserver=new IntersectionObserver(entries=>{entries.forEach(entry=>{if(!entry.isIntersecting)return;if(!reduceMotion.matches&&!document.hidden){const runs=[...entry.target.querySelectorAll('.processing-stages li>i')].map((icon,i)=>icon.animate([{transform:'translateY(0) scale(1)'},{transform:'translateY(-4px) scale(1.08)',offset:.4},{transform:'translateY(0) scale(1)'}],{duration:800,delay:550+i*350,easing:'cubic-bezier(.23,1,.32,1)'}));liveRuns.set(entry.target.querySelector('.processing-stages'),runs);}stageObserver.unobserve(entry.target);});},{threshold:.4});stageObserver.observe(document.querySelector('.intelligence-layer'));
